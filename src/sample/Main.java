@@ -1,6 +1,5 @@
 package sample;
 
-import com.sun.org.apache.xpath.internal.functions.FuncFalse;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
